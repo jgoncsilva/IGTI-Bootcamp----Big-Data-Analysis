@@ -8,8 +8,9 @@ The choice of this Bootcamp for data analysis aimed to learn important tools esp
 
 The course modules are respectively:
 
-1- [Fundamentals](https://github.com/jgoncsilva/IGTI-Bootcamp---Data-Analysis/tree/master/Fundamentals%20-%20Module%201)
-2 - Data processing using Hadoop ecosystem - (in PROGRESS)
-3 - Data Collection and Collection
-4 - Techniques for Big Data processing
-5 - Challenge
+1)- [Fundamentals](https://github.com/jgoncsilva/IGTI-Bootcamp---Data-Analysis/tree/master/Fundamentals%20-%20Module%201) 
+
+2) - Data processing using Hadoop ecosystem - (in PROGRESS)
+3) - Data Collection and Collection
+4) - Techniques for Big Data processing
+5) - Challenge
