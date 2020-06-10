@@ -6,10 +6,11 @@ Approximately 500 scholarships for bootcamps were made available (in April 2020)
 
 The choice of this Bootcamp for data analysis aimed to learn important tools especially when it comes to Big Data.
 
-The course modules are respectively
+The course modules are respectively:
 
-1- [Fundamentals](https://github.com/jgoncsilva/IGTI-Bootcamp---Data-Analysis/tree/master/Fundamentals%20-%20Module%201) 
-2 - Data processing using Hadoop ecosystem - ### IN PROGRESS
-3 - Data Collection and Collection
-4 - Techniques for Big Data processing
-5 - Challenge
+1)- [Fundamentals](https://github.com/jgoncsilva/IGTI-Bootcamp---Data-Analysis/tree/master/Fundamentals%20-%20Module%201) 
+
+2) - Data processing using Hadoop ecosystem - (in PROGRESS)
+3) - Data Collection and Collection
+4) - Techniques for Big Data processing
+5) - Challenge
