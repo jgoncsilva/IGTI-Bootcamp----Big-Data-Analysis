@@ -13,7 +13,7 @@ The course modules are respectively:
 [Data processing using Hadoop ecosystem](https://github.com/jgoncsilva/IGTI-Bootcamp---Data-Analysis/tree/master/Hadoop%20%20-%20Module%202)
 Files : [HERE](https://drive.google.com/drive/u/5/folders/1cNMqry11xrtr-z7rqzuCI7msmu7OOksN) 
 
-[Data Collection and Collection](https://github.com/jgoncsilva/IGTI-Bootcamp---Data-Analysis/tree/master/Data%20Collect%20-%20Module%203)
+[Data Collection -Webscrapping](https://github.com/jgoncsilva/IGTI-Bootcamp---Data-Analysis/tree/master/Data%20Collect%20-%20Module%203)
 
 4) - Techniques for Big Data processing
 5) - Challenge
