@@ -11,9 +11,16 @@ The course modules are respectively:
 [Fundamentals](https://github.com/jgoncsilva/IGTI-Bootcamp---Data-Analysis/tree/master/Fundamentals%20-%20Module%201) 
 
 [Data processing using Hadoop ecosystem](https://github.com/jgoncsilva/IGTI-Bootcamp---Data-Analysis/tree/master/Hadoop%20%20-%20Module%202)
+
 Files : [HERE](https://drive.google.com/drive/u/5/folders/1cNMqry11xrtr-z7rqzuCI7msmu7OOksN) 
 
 [Data Collection -Webscrapping](https://github.com/jgoncsilva/IGTI-Bootcamp---Data-Analysis/tree/master/Data%20Collect%20-%20Module%203)
 
-4) - Techniques for Big Data processing
-5) - Challenge
+[Processing Techiques for Big Data - **PySpark**](https://github.com/jgoncsilva/IGTI-Bootcamp----Big-Data-Analysis/tree/master/Processing%20Techiques%20for%20Big%20Data)
+
+It was a great experience to get to know the processing of large amounts of data, as well as tools such as KNIME for ETL, and NoSQL databases.
+
+Below the certificate obtained at the end of the bootcamp:
+---
+
+![](certificate.jpg)
